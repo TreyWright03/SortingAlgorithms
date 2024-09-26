@@ -1,7 +1,7 @@
 
 # Sorting Algorithms
 Preview:
-
+![Sorting](images/ExpectedOutput.png)
 
 ## Sorting Algorithms Implamented
 
